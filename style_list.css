@@ -1,0 +1,18 @@
+#unordered_list {
+    list-style: circle;
+    color: red;
+}
+.list_one {
+    list-style: armenian;
+    color: green
+}
+
+#ordered_list {
+    list-style: circle;
+    color: purple;
+}
+
+.list_two {
+    list-style: inside;
+    color: teal;
+}
